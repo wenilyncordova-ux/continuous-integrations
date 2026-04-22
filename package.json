@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "auto-fix-lab2",
   "version": "1.0.0",
@@ -7,4 +8,15 @@
   "devDependencies": {
     "jest": "^29.0.0"
   }
+=======
+{
+  "name": "auto-fix-lab2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+>>>>>>> ef6cb610ea9a788273525555a811f56008efe558
 }
